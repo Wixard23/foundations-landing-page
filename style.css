@@ -1,0 +1,171 @@
+body {
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin: 0;
+}
+
+.header {
+    background-color: #8b0000;
+    padding: 20px;
+    color: white;
+}
+
+.topmost {
+    display: flex;
+    justify-content: center;
+    gap: 1200px;
+}
+
+.title {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.top-links {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    gap: 370px;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+
+.heading {
+    font-size: 48px;
+    font-weight: 900;
+    color: gold;
+}
+.info {
+    max-width: 700px;
+    font-size: 20px;
+}
+
+.imgmain {
+    border-radius: 20px;
+    width: 30%;
+    height: auto;
+}
+
+.more {
+    background-color: gold;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 10px;
+    font-weight: bold;
+    border-width: 2px;
+} 
+
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 125px;
+}
+
+.header2 {
+    font-size: 45px;
+    margin-top: 40px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    font-size: 20px;
+}
+
+.imgadd {
+    width: 175px;
+    height: 190px;
+}
+
+.greyquote {
+    /*background-color: #e5e7eb;*/
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container3 {
+    max-width: 1000px;
+    font-size: 32px;
+    font-style: italic;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    color: white;
+}
+
+.author {
+    display: flex;
+    justify-content: end;
+    font-style: normal;
+    margin-top: 10px;
+}
+
+.end {
+    background-color: #3882f6;
+    margin-top: 80px;
+    margin-left: 350px;
+    margin-right: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 600px;
+    border-radius: 24px;
+    margin-bottom: 42px;
+}
+
+
+.texts {
+    margin-top: 48px;
+    color: white;
+    margin-bottom: 48px;
+}
+.text1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text2 {
+    font-size: 20px;
+}
+
+.lastbutton {
+    font-size: 28px;
+    border-radius: 16px;
+    background-color: #3882f6;
+    border-color: white;
+    color: white;
+    border-width: 3px;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
